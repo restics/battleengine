@@ -26,3 +26,6 @@ im bored please help me
  * - add a more sophisticated effects system (entire new class)
  * - more sophisticated moves system
  * - accuracy mechanics
+
+
+also this was originally supposed to be a personal project, just to clear up anything about immature comments.
